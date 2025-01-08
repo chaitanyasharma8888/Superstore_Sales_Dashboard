@@ -1,0 +1,9 @@
+Superstore Sales Dashboard Insights:
+
+The average delivery time per order is 4 days.
+Office supplies represent the largest share of sales.
+In the sub-category, phones are the top-selling products.
+Sales peaked in November and December for both 2019 and 2020.
+Standard class shipping is the most preferred delivery method.
+October was the most profitable month in both 2019 and 2020.
+Cash on Delivery (COD) is the most commonly used payment method.
